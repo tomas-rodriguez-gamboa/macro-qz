@@ -1,2 +1,3 @@
-Code files for QZ macro shocks.
+## Code
 
+Julia scripts for QZ macro shocks.
